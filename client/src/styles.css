@@ -1,0 +1,60 @@
+/* Default Theme */
+.default-theme {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  /* Mumbai Indians Theme */
+  .mumbai-indians-theme {
+    background-color: #004ba0; /* Mumbai Indians Blue */
+    color: #fff;
+  }
+  
+  /* Chennai Super Kings Theme */
+  .chennai-super-kings-theme {
+    background-color: #fcdc04; /* Chennai Super Kings Yellow */
+    color: #333;
+  }
+  
+  /* Royal Challengers Bangalore Theme */
+  .royal-challengers-theme {
+    background-color: #aa4545; /* RCB Red */
+    color: #fff;
+  }
+  
+  /* Kolkata Knight Riders Theme */
+  .kolkata-knight-riders-theme {
+    background-color: #3b215d; /* KKR Purple */
+    color: #fff;
+  }
+  
+  /* Rajasthan Royals Theme */
+  .rajasthan-royals-theme {
+    background-color: #ea1a8e; /* RR Pink */
+    color: #fff;
+  }
+  
+  /* Sunrisers Hyderabad Theme */
+  .sunrisers-hyderabad-theme {
+    background-color: #f94f23; /* SRH Orange */
+    color: #fff;
+  }
+  
+  /* Punjab Kings Theme */
+  .punjab-kings-theme {
+    background-color: #e41a1c; /* PBKS Red */
+    color: #fff;
+  }
+  
+  /* Delhi Capitals Theme */
+  .delhi-capitals-theme {
+    background-color: #004c93; /* DC Blue */
+    color: #fff;
+  }
+  
+  /* Lucknow Super Giants Theme */
+  .lucknow-super-giants-theme {
+    background-color: #1b9c85; /* LSG Green */
+    color: #fff;
+  }
+  
